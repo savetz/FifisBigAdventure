@@ -1,5 +1,5 @@
 # FifisBigAdventure
-a generated book for NaNoGenMo2023
+a generated book for [NaNoGenMo2023](https://github.com/NaNoGenMo/2023)
 
 My goal was to create a choose-your-own adventure book that has a story, makes sense, and is fun to play. The result is Fifi's Big Adventure, in which you are a dog walker in a big city, tasked with walking Fifi and running a couple of errands for Fifi's Person. The game consists of a single HTML file: turning pages means clicking links that move the reader to various internal markers within the file.
 
